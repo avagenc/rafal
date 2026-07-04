@@ -30,6 +30,7 @@ func (noopTokenStore) GetRefreshToken(context.Context, string) (string, error) {
 	return "", gworkspace.ErrNotConnected
 }
 func (noopTokenStore) SaveRefreshToken(context.Context, string, string) error { return nil }
+func (noopTokenStore) DeleteRefreshToken(context.Context, string) error       { return nil }
 
 func mustEnv(key string) string {
 	v := os.Getenv(key)
