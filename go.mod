@@ -4,8 +4,8 @@ go 1.25.11
 
 require (
 	github.com/joho/godotenv v1.5.1
-	go.naturallyfunny.dev/adk v1.27.0
-	go.naturallyfunny.dev/gworkspace v0.4.0
+	go.naturallyfunny.dev/agentkit v0.2.0
+	go.naturallyfunny.dev/gworkspace v0.7.0
 	golang.org/x/oauth2 v0.36.0
 	google.golang.org/adk v1.4.0
 	google.golang.org/genai v1.58.0

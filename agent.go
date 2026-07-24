@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	adkgworkspace "go.naturallyfunny.dev/adk/gworkspace"
+	adkgworkspace "go.naturallyfunny.dev/agentkit/gworkspace/adk"
 	"go.naturallyfunny.dev/gworkspace"
 	"google.golang.org/adk/agent"
 	"google.golang.org/adk/agent/llmagent"

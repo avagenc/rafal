@@ -59,8 +59,8 @@ github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRI
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-go.naturallyfunny.dev/adk v1.27.0 h1:NP8EMwfBws1J4sNzsHPCPfyC3BvEH71/3DT16HVXcHk=
-go.naturallyfunny.dev/adk v1.27.0/go.mod h1:Sg94EL7FbIGAhL8YWXD5xgG6nJV02PcPsziDGt2EI8c=
+go.naturallyfunny.dev/agentkit v0.2.0 h1:hkkgJmUpWzY0JDn/E+FwLfqkstaXrMjH9pNoZ42y1FU=
+go.naturallyfunny.dev/agentkit v0.2.0/go.mod h1:V+cByLOXk7nyzHoeLfArCDsErpxgDHCEzqHG+XHML64=
 go.opentelemetry.io/auto/sdk v1.2.1 h1:jXsnJ4Lmnqd11kwkBV2LgLoFMZKizbCi5fNZ/ipaZ64=
 go.opentelemetry.io/auto/sdk v1.2.1/go.mod h1:KRTj+aOaElaLi+wW1kO/DZRXwkF4C5xPbEe3ZiIhN7Y=
 go.opentelemetry.io/contrib/detectors/gcp v1.42.0 h1:kpt2PEJuOuqYkPcktfJqWWDjTEd/FNgrxcniL7kQrXQ=
