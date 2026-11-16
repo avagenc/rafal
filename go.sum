@@ -59,8 +59,6 @@ github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRI
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-go.naturallyfunny.dev/agentkit v0.2.0 h1:hkkgJmUpWzY0JDn/E+FwLfqkstaXrMjH9pNoZ42y1FU=
-go.naturallyfunny.dev/agentkit v0.2.0/go.mod h1:V+cByLOXk7nyzHoeLfArCDsErpxgDHCEzqHG+XHML64=
 go.opentelemetry.io/auto/sdk v1.2.1 h1:jXsnJ4Lmnqd11kwkBV2LgLoFMZKizbCi5fNZ/ipaZ64=
 go.opentelemetry.io/auto/sdk v1.2.1/go.mod h1:KRTj+aOaElaLi+wW1kO/DZRXwkF4C5xPbEe3ZiIhN7Y=
 go.opentelemetry.io/contrib/detectors/gcp v1.42.0 h1:kpt2PEJuOuqYkPcktfJqWWDjTEd/FNgrxcniL7kQrXQ=
@@ -91,6 +89,10 @@ go.opentelemetry.io/otel/trace v1.43.0 h1:BkNrHpup+4k4w+ZZ86CZoHHEkohws8AY+WTX09
 go.opentelemetry.io/otel/trace v1.43.0/go.mod h1:/QJhyVBUUswCphDVxq+8mld+AvhXZLhe+8WVFxiFff0=
 go.opentelemetry.io/proto/otlp v1.9.0 h1:l706jCMITVouPOqEnii2fIAuO3IVGBRPV5ICjceRb/A=
 go.opentelemetry.io/proto/otlp v1.9.0/go.mod h1:xE+Cx5E/eEHw+ISFkwPLwCZefwVjY+pqKg1qcK03+/4=
+go.trueardian.com/agentkit v0.3.0 h1:JJZ1s6FdF4z/Jk/hB5CcRgp0ruqQLfyeWsY6EhDeZ/E=
+go.trueardian.com/agentkit v0.3.0/go.mod h1:gnf9xL5orBKPctSwLrZlTPt21ZvjDb9DVX3DAzMnMnY=
+go.trueardian.com/gworkspace v0.8.0 h1:DLnBens44QIgUy07LIpU/SZJufCDeXSD/nZPcOyKjo0=
+go.trueardian.com/gworkspace v0.8.0/go.mod h1:J3DidYXHsW1EfxwLh7XPjy11P62XYq/YVdlj4PplnMI=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
 go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
 golang.org/x/crypto v0.53.0 h1:QZ4Muo8THX6CizN2vPPd5fBGHyogrdK9fG4wLPFUsto=

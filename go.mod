@@ -4,8 +4,8 @@ go 1.25.11
 
 require (
 	github.com/joho/godotenv v1.5.1
-	go.naturallyfunny.dev/agentkit v0.2.0
-	go.naturallyfunny.dev/gworkspace v0.7.0
+	go.trueardian.com/agentkit v0.3.0
+	go.trueardian.com/gworkspace v0.8.0
 	golang.org/x/oauth2 v0.36.0
 	google.golang.org/adk v1.4.0
 	google.golang.org/genai v1.58.0
@@ -64,10 +64,3 @@ require (
 	rsc.io/omap v1.2.0 // indirect
 	rsc.io/ordered v1.1.1 // indirect
 )
-
-// TEMPORARY: go.naturallyfunny.dev/gworkspace is not yet registered on the
-// go.naturallyfunny.dev vanity-import redirect (unlike /tuya and /adk, which
-// resolve fine) — `go get`/`go mod tidy` 404s on it until that's fixed.
-// Points at the local checkout so this repo still builds; remove once the
-// redirect is live.
-replace go.naturallyfunny.dev/gworkspace => ../../gworkspace

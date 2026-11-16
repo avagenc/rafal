@@ -12,7 +12,7 @@ import (
 	"golang.org/x/oauth2/google"
 	"google.golang.org/genai"
 
-	"go.naturallyfunny.dev/gworkspace"
+	"go.trueardian.com/gworkspace"
 	"google.golang.org/adk/agent"
 	"google.golang.org/adk/cmd/launcher"
 	"google.golang.org/adk/cmd/launcher/console"

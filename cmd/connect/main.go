@@ -19,7 +19,7 @@ import (
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 
-	"go.naturallyfunny.dev/gworkspace"
+	"go.trueardian.com/gworkspace"
 )
 
 // noopTokenStore satisfies gworkspace.TokenStore for a client that will only

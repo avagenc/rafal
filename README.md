@@ -4,7 +4,7 @@ Rafal is the Avagenc Google Workspace agent — Gmail, Calendar, and Contacts, t
 one connected identity — built on the [Google ADK](https://pkg.go.dev/google.golang.org/adk).
 It ships as a **pure Go module** — there is no standalone service or HTTP API. You embed
 Rafal into your own runner/session lifecycle and supply an LLM plus a
-[`gworkspace.Client`](https://pkg.go.dev/go.naturallyfunny.dev/gworkspace); the module
+[`gworkspace.Client`](https://pkg.go.dev/go.trueardian.com/gworkspace); the module
 gives you a configured agent wired to the Gmail, Calendar, and Contacts tools.
 
 ```
@@ -26,7 +26,7 @@ owned by the module; you supply only its dependencies.
 ```go
 a, err := rafal.New(rafal.Config{
     Model:           model,           // a google.golang.org/adk/model.LLM
-    WorkspaceClient: workspaceClient, // a go.naturallyfunny.dev/gworkspace.Client
+    WorkspaceClient: workspaceClient, // a go.trueardian.com/gworkspace.Client
 })
 ```
 
